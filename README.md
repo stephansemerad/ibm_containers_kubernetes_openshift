@@ -1,1 +1,1 @@
-# ibm_containers_kubernetes_openshift_
+# ibm_containers_kubernetes_openshift
